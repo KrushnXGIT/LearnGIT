@@ -1,2 +1,1 @@
-COMMIT1
-myDiffCommitOnMain
+COMMIT-Branch
